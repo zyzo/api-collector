@@ -1,0 +1,15 @@
+{
+  "name": "api-collector",
+  "version": "0.0.0",
+  "description": "Sniff communities providing ics feeds",
+  "main": "app.js",
+  "dependencies": {
+    "https": "0.0.0",
+    "fs": "0.0.2",
+    "cheerio": "~0.19.0",
+    "mkdirp": "~0.5.0"
+  },
+  "author": "zyzo",
+  "license": "MIT",
+  "private": false
+}
